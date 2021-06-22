@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @michaelbwright
+- 👀 I’m interested in basic game development and command-line utilities
+- 🌱 I’m currently learning about Linux
+- 📫 How to reach me: michaelbwright14@gmail.com
